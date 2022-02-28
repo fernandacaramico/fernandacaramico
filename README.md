@@ -5,7 +5,7 @@ function showAboutMePage(my) {
   if (underConstruction) {
     return drinkCoffee(coldBrew)
   } else {
-    return eatPizza(mushroom)
+    return eatPizza(veggie)
   }
 ```
 
